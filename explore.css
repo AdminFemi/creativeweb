@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: sans-serif;
+}
+
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(to right, #094282, #6d00ff 70%, #6d00ff 70%);
+    color: #fff;
+    padding: 10px 8%;
+    position: relative;
+}
+
+.offer h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+    left: inherit;
+}
+.offer{
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: rgb(112, 74, 74);
+    padding: 15px;
+    border: 1px solid lightgrey;
+    width: 450px;
+}
